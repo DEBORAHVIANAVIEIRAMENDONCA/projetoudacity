@@ -1,6 +1,7 @@
 # JOGO
 
 ## Como jogar
+Abra o index.html em seu navegador favorito para iniciar o jogo.
 Usando as setas do teclado(para cima, baixo, esquerda e direita), poderá mover
 o jogador para que ele chegue até o outro lado do rio. Se ele tocar nos
 inimigos ao longo do caminho nao pontuará e o jogo será reiniciado.
